@@ -1,4 +1,5 @@
-#include <stdio.h>
+///DIFERENÇA///
+#include <stdio.h> 
 int main(){
     int a,b,c,d,Di;
     scanf("%d%d%d%d",&a,&b,&c,&d);

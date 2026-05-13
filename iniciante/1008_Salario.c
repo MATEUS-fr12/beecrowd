@@ -1,5 +1,5 @@
-#include <stdio.h>
-
+///SALARIO///
+#include <stdio.h> 
 int main(){
     int n,h;
     double v,s;

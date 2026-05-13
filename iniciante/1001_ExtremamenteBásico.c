@@ -1,4 +1,5 @@
-#include <stdio.h> ///Extremamente Basico
+///EXTREMAMENTE BASICO///
+#include <stdio.h> 
 int main(){
     int a,b,x;
     scanf("%d",&a);

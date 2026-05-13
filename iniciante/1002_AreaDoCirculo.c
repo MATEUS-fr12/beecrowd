@@ -1,4 +1,5 @@
-#include <stdio.h> /// Area do circulo
+///AREA DO CIRCULO///
+#include <stdio.h> 
 int main(){
     double r,A;
     scanf("%lf",&r);

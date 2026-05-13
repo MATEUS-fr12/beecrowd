@@ -1,4 +1,5 @@
-#include <stdio.h> ///Media 1
+///MEDIA 1 ///
+#include <stdio.h> 
 int main() {
     double a,b,m;
     scanf("%lf%lf",&a,&b);

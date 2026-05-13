@@ -1,4 +1,5 @@
-#include <stdio.h> /// Produto Simples
+///PRODUTO SIMPLES///
+#include <stdio.h> 
 int main(){ 
     int a,b,prod;
     scanf("%d%d",&a,&b);
