@@ -1,3 +1,4 @@
+///NUMEROS POSITIVOS///
 #include <stdio.h>
 int main(){
     float x;
@@ -6,6 +7,8 @@ int main(){
         scanf("%f",&x);
         if (x>0){
             cont++;
+        }else if(x==0){
+            i--;
         }
     }
     printf("%d valores positivos\n",cont);
