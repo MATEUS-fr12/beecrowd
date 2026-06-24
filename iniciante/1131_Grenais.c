@@ -10,7 +10,7 @@ int main(){
         else emp++;
         printf("Novo grenal (1-sim 2-nao)\n");
         scanf("%d", &op);
-        if (op != 1) break;
+        if (op != 1) break; 
     }
     printf("%d grenais\n", total);
     printf("Inter:%d\n", vi);
