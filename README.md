@@ -9,7 +9,7 @@ Este projeto foi criado para documentar minha jornada de aprendizado em lógica 
 ## 📊 Progresso no Site
 **120 / 2423 questões resolvidas (5.0%)**
 
-![Progress](.github\progress.svg)
+![Progress](.github/progress.svg)
 
 ## 👤 Meu Perfil
 
