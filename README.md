@@ -9,7 +9,7 @@ Este projeto foi criado para documentar minha jornada de aprendizado em lógica 
 ## 📊 Progresso no Site
 **126 / 2423 questões resolvidas** (5.2%)
 
-<img src="https://img.shields.io/badge/Progresso-5.2%25-00FF00?style=for-the-badge&logo=beecrowd&logoColor=white&labelColor=222" alt="Progresso: 5.2%" height="35">
+Progress: [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.2%
 ## 👤 Meu Perfil
 
 Acompanhe meu progresso, conquistas e estatísticas diretamente na plataforma:
