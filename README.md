@@ -7,10 +7,9 @@ Este projeto foi criado para documentar minha jornada de aprendizado em lógica 
 ⚠️ **Nota:** Este repositório ainda está em progresso, sendo atualizado constantemente à medida que resolvo novos desafios.
 
 ## 📊 Progresso no Site
-**126 / 2423 questões resolvidas** (5.2%)
+**126 / 2423 questões resolvidas**
 
-Progress: [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.2%
-## 👤 Meu Perfil
+<font color="#22c55e">Progress: [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.2%</font>
 
 Acompanhe meu progresso, conquistas e estatísticas diretamente na plataforma:
 🔗 **[Meu Perfil(12Mateus)](https://judge.beecrowd.com/pt/profile/973581)**
