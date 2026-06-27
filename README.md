@@ -8,17 +8,12 @@ Este projeto foi criado para documentar minha jornada de aprendizado em lógica 
 
 ## 📊 Progresso no Site
 **126 / 2423 questões resolvidas** (5.2%)
-<table>
-  <tr>
-    <td>
-      <img src="https://geps.dev/progress/5" alt="Progresso: 5.2%">
-    </td>
-  </tr>
-</table>
+
+<img src="https://img.shields.io/badge/Progresso-5.2%25-00FF00?style=for-the-badge&logo=beecrowd&logoColor=white&labelColor=222" alt="Progresso: 5.2%" height="35">
 ## 👤 Meu Perfil
 
 Acompanhe meu progresso, conquistas e estatísticas diretamente na plataforma:
-🔗 **[Meu Perfil no Beecrowd (12Mateus)](https://judge.beecrowd.com/pt/profile/973581)**
+🔗 **[Meu Perfil(12Mateus)](https://judge.beecrowd.com/pt/profile/973581)**
 
 ## 📂 Estrutura e Organização
 
