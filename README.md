@@ -7,9 +7,10 @@ Este projeto foi criado para documentar minha jornada de aprendizado em lógica 
 ⚠️ **Nota:** Este repositório ainda está em progresso, sendo atualizado constantemente à medida que resolvo novos desafios.
 
 ## 📊 Progresso no Site
-**118 / 2423 questões resolvidas (4.9%)**
+**119 / 2423 questões resolvidas (4.9%)**
 
-<img src="https://progress-bar.dev/5/?scale=100&title=Progresso&width=500&color=22c55e" alt="Progress">
+![Progress](progress.svg)
+
 ## 👤 Meu Perfil
 
 Acompanhe meu progresso, conquistas e estatísticas diretamente na plataforma:
