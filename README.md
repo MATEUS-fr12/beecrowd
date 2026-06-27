@@ -7,14 +7,9 @@ Este projeto foi criado para documentar minha jornada de aprendizado em lógica 
 ⚠️ **Nota:** Este repositório ainda está em progresso, sendo atualizado constantemente à medida que resolvo novos desafios.
 
 ## 📊 Progresso no Site
-**118 / 2423 questões resolvidas**
+**118 / 2423 questões resolvidas (4.9%)**
 
-<p>
-  <img src="https://img.shields.io/badge/Quest%C3%B5es-118%20%2F%202423-22c55e?style=flat-square&labelColor=1e293b" alt="Questões resolvidas">
-  <br>
-  <img src="https://progress-bar.dev/5/?scale=100&title=Progresso&width=500&color=22c55e" alt="Progress Bar">
-</p>
-
+<img src="https://progress-bar.dev/5/?scale=100&title=Progresso&width=500&color=22c55e" alt="Progress">
 ## 👤 Meu Perfil
 
 Acompanhe meu progresso, conquistas e estatísticas diretamente na plataforma:
