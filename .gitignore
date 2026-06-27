@@ -1,2 +1,4 @@
-# Ignorar arquivos de configuração de pasta do Windows
+# Ignorar arquivo para o git
 desktop.ini
+atualizar_progresso.py
+iniciar.bat
