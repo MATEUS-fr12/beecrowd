@@ -7,9 +7,10 @@ Este projeto foi criado para documentar minha jornada de aprendizado em lógica 
 ⚠️ **Nota:** Este repositório ainda está em progresso, sendo atualizado constantemente à medida que resolvo novos desafios.
 
 ## 📊 Progresso no Site
-**126 / 2423 questões resolvidas**
+**118 / 2423 questões resolvidas**
 
-<font color="#22c55e">Progress: [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.2%</font>
+<img src="https://img.shields.io/badge/Progress:%20%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D%204.9%-22c55e?style=flat-square&labelColor=transparent&color=transparent" alt="Progress">
+## 👤 Meu Perfil
 
 Acompanhe meu progresso, conquistas e estatísticas diretamente na plataforma:
 🔗 **[Meu Perfil(12Mateus)](https://judge.beecrowd.com/pt/profile/973581)**
